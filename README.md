@@ -1,32 +1,32 @@
 # Evidence
-This repository includes simple evidence of what I worked on during the term.  
+
+This repository includes simple evidence of what I worked on during the term.
 
 ---
 
 ## 1) Django (screenshots)
-- **django-models.png** — shows basic database models (Course, Unit, Lesson) I created to practice ORM design.
-- **django-migrations.png** — list of migrations applied to set up and update the database.
-- **django-login.png** — the login page I used for basic authentication while testing the project.
+- **django-models.png** — VS Code view of my database models (e.g., Grade, Course, Lesson) to show ORM structure.
+- **django-migrations.png** — `showmigrations` output confirming migrations applied for the apps (schema set up/updates).
+- **django-login.png** — the Arabic login page of the website (Adnan Academy) used for authentication tests.
 
-> Purpose: demonstrate that I built a Django project with models, migrations, and authentication.
+*Purpose:* demonstrate that I built a Django project with models, migrations, and authentication.
 
 ---
 
 ## 2) Social / Instagram
-- **ig-grid.png** — a view of the account grid to show overall look & consistency.
-- **ig-post-01.png** — a final post after edits (example of the visual style I designed).
-- **psd-layers-01.png** — Photoshop screenshot with visible layers (to show real design work).
-- **40-posts-design.png** — a collage/sheet of prepared post designs (batch work for scheduling).
-- **i-am-the-account-manager.png** — confirmation screenshot that I manage the account.
+- **ig-grid.png** — account grid overview (recent posts layout, verified badge visible).
+- **ig-post-01.png** — a final designed post after Photoshop edits.
+- **psd-layers-01.png** — Photoshop workspace with layers.
+- **40-posts-design.png** — a folder view showing 40 prepared post folders (batch work for scheduling).
+- **I-am-the-account-manager.png** — Instagram settings page confirming I manage the account.
 
-> Purpose: show that I designed posts in Photoshop and managed the account content.
+*Purpose:* show that I designed posts in Photoshop and managed the account content.
 
 ---
 
 ## 3) Workplace social-media blocking (confirmation)
-- **network-block-letter.pdf** — a signed letter on company letterhead (Oral Design Dental Laboratory L.L.C.) confirming that I configured their office network to block social media websites and apps upon request, and that the setup is active during working hours.
+- **network-block-letter.pdf** — a signed letter on **Oral Design Dental Laboratory L.L.C.** letterhead confirming that I configured their office network to block access to social media websites and applications for employees only, with access allowed for managers and owners.
 
-> Note: Pi-hole is installed on their office machine, not on my personal device, so I cannot take live screenshots from that environment.  
-> Instead, the company provided a written confirmation on letterhead. If needed, I can arrange a short live demo on site.
+*Note:* Pi-hole is installed on their pc (not my device), so I could not capture live screenshots from that environment. The company’s written confirmation is provided instead.
 
 ---
