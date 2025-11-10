@@ -32,11 +32,3 @@ I kept everything brief and easy to verify.
 > Instead, the company provided a written confirmation on letterhead. If needed, I can arrange a short live demo on site.
 
 ---
-
-## Privacy
-Any emails/usernames in screenshots were masked when needed. Originals can be shown in person if required.
-
----
-
-## Quick follow-up
-If the committee needs more details or a short demo, I’m available to present these items briefly.
